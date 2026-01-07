@@ -4,4 +4,4 @@
 
 This setup uses a low-power device, supporting 2–3 mm drill bits and offering voltage and current control. The system is designed for repeatable and efficient cycles, optimizing drilling speed and equipment protection.
 
-See the [Mechanical_EDM.pdf](Trapano_Elettroerosione.pdf) for the original material.
+See the [Trapano_Elettroerosione.pdf](Trapano_Elettroerosione.pdf) for the original material.
