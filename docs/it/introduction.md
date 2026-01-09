@@ -1,8 +1,8 @@
-# Introduction
+🇮🇹 Riassunto
 
-**Mechanical Electrical Discharge Machining (EDM)** is a technology that uses electrical discharges to erode metals immersed in a dielectric fluid. The process is based on a circuitry that opens and closes rapidly, generating high-temperature sparks that melt and remove tiny amounts of material from the workpiece, enabling drilling even in very hard metals such as tungsten.
+La macchina per elettroerosione (EDM) funziona sfruttando la scarica elettrica su un metallo immerso in un liquido dielettrico. Il punto di contatto fra la punta del trapano (T) e il pezzo (P) agisce da interruttore: quando punta e pezzo si toccano, il solenoide si attiva e solleva la punta, aprendo il circuito; la molla la riporta sul pezzo, ripetendo il ciclo. Ogni chiusura o apertura genera una scarica ad altissima temperatura che fonde e strappa piccole porzioni di metallo, soprattutto dal pezzo, consentendo fori anche nei metalli più duri (come il tungsteno). La punta può essere in rame o ottone.
 
-This setup uses a low-power device, supporting 2–3 mm drill bits and offering voltage and current control. The system is designed for repeatable and efficient cycles, optimizing drilling speed and equipment protection.
+L’apparecchiatura descritta è di piccola potenza, adatta a punte di 2–3 mm. L’alimentatore va da 0 a 30 V e 10 A, con controllo di tensione e corrente. La resistenza R1 funge da by-pass alla bobina del solenoide, la protegge e, generando piccoli sollevamenti della punta, aumenta la frequenza dei cicli e la velocità del foro. Il condensatore C1 regolarizza le scariche elettriche. Con una punta di ottone da 2 mm, la velocità di erosione sul ferro è circa 2 mm all’ora.
 
 See the [Trapano_Elettroerosione.pdf](Trapano_Elettroerosione.pdf) for the original material.
 [See the video on YouTube](https://youtu.be/pxIa9TEquOc)
