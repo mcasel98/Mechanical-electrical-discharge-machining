@@ -6,6 +6,9 @@ Mechanical Electrical Discharge Machining (EDM) operates on the principle of ele
 
 This setup is low-power, supporting drill bits of 2–3 mm. The power supply is 0–30 V, 10 A, with voltage and current control. Resistor R1 bypasses the solenoid coil and protects it, limiting voltage across the solenoid and permitting fast, repeated cycles for increased drilling speed. Capacitor C1 smooths electrical discharges. Using a 2 mm brass tip, the erosion rate on iron is about 2 mm per hour.
 
+## Demo Video
+
+[see video on YouTube](https://youtu.be/pxIa9TEquOc)
 ---
 
 🇮🇹 **Riassunto**
@@ -15,3 +18,6 @@ La macchina per elettroerosione (EDM) funziona sfruttando la scarica elettrica s
 L’apparecchiatura descritta è di piccola potenza, adatta a punte di 2–3 mm. L’alimentatore va da 0 a 30 V e 10 A, con controllo di tensione e corrente. La resistenza R1 funge da by-pass alla bobina del solenoide, la protegge e, generando piccoli sollevamenti della punta, aumenta la frequenza dei cicli e la velocità del foro. Il condensatore C1 regolarizza le scariche elettriche. Con una punta di ottone da 2 mm, la velocità di erosione sul ferro è circa 2 mm all’ora.
 
 ---
+## Video dimostrativo
+
+[guarda il  video on YouTube](https://youtu.be/pxIa9TEquOc)
