@@ -5,4 +5,5 @@ La macchina per elettroerosione (EDM) funziona sfruttando la scarica elettrica s
 L’apparecchiatura descritta è di piccola potenza, adatta a punte di 2–3 mm. L’alimentatore va da 0 a 30 V e 10 A, con controllo di tensione e corrente. La resistenza R1 funge da by-pass alla bobina del solenoide, la protegge e, generando piccoli sollevamenti della punta, aumenta la frequenza dei cicli e la velocità del foro. Il condensatore C1 regolarizza le scariche elettriche. Con una punta di ottone da 2 mm, la velocità di erosione sul ferro è circa 2 mm all’ora.
 
 See the [Trapano_Elettroerosione.pdf](Trapano_Elettroerosione.pdf) for the original material.
+
 [See the video on YouTube](https://youtu.be/pxIa9TEquOc)
