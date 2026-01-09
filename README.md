@@ -8,7 +8,7 @@ This setup is low-power, supporting drill bits of 2–3 mm. The power supply is 
 
 ## Demo Video
 
-[see video on YouTube](https://youtu.be/pxIa9TEquOc)
+[See the video on YouTube](https://youtu.be/pxIa9TEquOc)
 ---
 
 🇮🇹 **Riassunto**
@@ -20,4 +20,4 @@ L’apparecchiatura descritta è di piccola potenza, adatta a punte di 2–3 mm
 ---
 ## Video dimostrativo
 
-[guarda il  video on YouTube](https://youtu.be/pxIa9TEquOc)
+[guarda il  video su YouTube](https://youtu.be/pxIa9TEquOc)
